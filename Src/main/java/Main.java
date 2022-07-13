@@ -1,6 +1,6 @@
 public class Main {
-    public static void main(String[] args){
-    BonusService service = new BonusService();
+    public static void main(String[] args) {
+        BonusService service = new BonusService();
         boolean registered = true;
         long expected;
         expected = 30;
